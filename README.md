@@ -6,6 +6,7 @@
 <h2 align="center">
     <samp>Hi 👋 I'm Mohamed Amine Nasri</samp>
 </h2>
+
 <h3 align="center">
     <samp>A software engineering student from Tunisia</samp> 
 </h3>
@@ -131,20 +132,15 @@
                 <br>Linux
             </td>
             <td align="center" width="100">
-                <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
-                <br>Windows
+                <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+                <br>Figma
             </td>
         </tr>
     </table>
 </div>
 
-<div style="margin-bottom: 200px;"></div>
-h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAmineNasri&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <!-- GitHub Info  -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineNasri&show_icons=true&locale=en" alt="MohamedAmineNasri" width="48%" height="300" style="object-fit: cover;"/>
+<h3 align="center"><samp>📊 GitHub Stats</samp></h3>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineNasri&theme=radical&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmineNasri&layout=compact&theme=radical" />
 </div>
-<div style="margin-bottom: 200px;"></div>
-<samp>Follow my journey through my coding adventures! 🌐</samp>
