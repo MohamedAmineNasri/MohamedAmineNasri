@@ -8,7 +8,7 @@
 </h2>
 
 <h3 align="center">
-    <samp>A software engineering student from Tunisia</samp> 
+    <samp>A Software Engineering Student From Tunisia</samp> 
 </h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
