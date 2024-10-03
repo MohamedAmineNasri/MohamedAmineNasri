@@ -34,7 +34,7 @@
             </td>
             <td align="center" width="100">
                 <a href="https://react-3d-portfolio-beryl.vercel.app/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Portfolio.svg/2048px-Portfolio.svg.png" alt="Portfolio" width="45" height="45" />
+                    <img src="https://raw.githubusercontent.com/MohamedAmineNasri/react-3d-portfolio/refs/heads/main/src/assets/assets/nasrilogo.png?token=GHSAT0AAAAAACTQJUP7H47KWXL56JD4Y5MMZX7EYPA" alt="Portfolio" width="45" height="45" />
                 </a>
                 <br>Portfolio
             </td>
