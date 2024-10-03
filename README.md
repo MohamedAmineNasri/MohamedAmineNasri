@@ -139,5 +139,12 @@
 </div>
 
 <div style="margin-bottom: 200px;"></div>
-
+h3 align="center"><samp>📟 GitHub Stats</samp></h3>
+<div style="display: flex; justify-content: space-between; align-items: stretch;">
+  <!-- Top Languages Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAmineNasri&show_icons=true&locale=en&layout=compact" alt="Sugith Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <!-- GitHub Info  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedAmineNasri&show_icons=true&locale=en" alt="MohamedAmineNasri" width="48%" height="300" style="object-fit: cover;"/>
+</div>
+<div style="margin-bottom: 200px;"></div>
 <samp>Follow my journey through my coding adventures! 🌐</samp>
