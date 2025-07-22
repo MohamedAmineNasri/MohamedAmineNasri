@@ -60,7 +60,7 @@
                 <br>Redux
             </td>
             <td align="center" width="100">
-                <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" width="45" height="45" />
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="45" height="45" />
                 <br>Tailwind CSS
             </td>
             <td align="center" width="100">
